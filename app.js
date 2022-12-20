@@ -10,5 +10,4 @@ app.use(bodyParser.json());
 app.use(userRoute);
 
 
-
 module.exports = app;
